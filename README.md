@@ -1,18 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=190&section=header&text=Carolina%20Huilcan&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20Web%20%26%20Mobile&descSize=19&descAlignY=66" width="100%" alt="Carolina Huilcan — Full Stack Developer"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1100&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=800&height=48&lines=%3E+Desenvolvedora+Full+Stack;%3E+React.js+%7C+Node.js+%7C+JavaScript;%3E+Desenvolvimento+Web+e+Mobile;%3E+Construindo+solu%C3%A7%C3%B5es+com+prop%C3%B3sito" alt="Animação de apresentação"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/CARK997"><img src="https://img.shields.io/badge/GitHub-CARK997-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/carolina-huilcan/"><img src="https://img.shields.io/badge/LinkedIn-Carolina%20Huilcan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:huilcan.carolinag@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-A21517?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
-</p>
-
----
 
 ## `> sobre_mim`
 
